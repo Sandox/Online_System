@@ -14,4 +14,6 @@ public class PageController {
 		mv.addObject("greeting","Welcome to Pick n Pay online shopping");
 				return mv;
 	}
+	
+
 }
